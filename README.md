@@ -103,7 +103,7 @@ This project was made by:
 - [Rémy A.](https://github.com/Taarjax)
 - [Clément G.](https://github.com/Zoreph22)
 - [Tom B.](https://github.com/tom-Shiiir0)
-- [Lilian M.](https://github.com/LilianLeVrai)
+- [Lilian M.](https://github.com/LilianManzano)
 - [Guillaume S.](https://github.com/gs2142)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
